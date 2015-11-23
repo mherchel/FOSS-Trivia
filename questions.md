@@ -1,4 +1,5 @@
 | Question| Answer | Link |
+|---------|--------|------|
 | What year was Red Hat founded? | 1993 | [https://en.wikipedia.org/wiki/Red_Hat](https://en.wikipedia.org/wiki/Red_Hat) |
 | The Ruby programming language originated from this country in the mid-1990s? | Japan | [https://en.wikipedia.org/wiki/Ruby_(programming_language)](https://en.wikipedia.org/wiki/Ruby_(programming_language)) |
 | What year was Drupal created? | 2001 |
