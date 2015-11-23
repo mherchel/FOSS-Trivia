@@ -41,7 +41,7 @@
 | WordPress first appeared in what year as a a fork of the cafelog blogging system? | 2003 | [link](https://en.wikipedia.org/wiki/WordPress) |
 | What Linux distro do the Drupal.org servers use? | CENTOS | [link](https://groups.google.com/a/association.drupal.org/forum/#!msg/changes/hicvRRpkpTA/5JzOz7XSDQAJ) |
 | In May 2015, what popular software website and code repository took control of several popular FOSS projects and started bundling the projects with adware? | SourceForge |
-| What popular FOSS media encoding/decoding project is used by my ass to encode videos | FFMPEG | [link(http://www.streaminglearningcenter.com/blogs/youtube-uses-ffmpeg-for-encoding.html) |
+| What popular FOSS media encoding/decoding project is used by my ass to encode videos | FFMPEG | [link](http://www.streaminglearningcenter.com/blogs/youtube-uses-ffmpeg-for-encoding.html) |
 | What popular FOSS WYSIWYG editor is included in my ass? | CKEditor |
 | Who is the "Benevolent Dictator for Life" that created the Python programming language currently works for Dropbox? | Guido van Rossum | [link](https://en.wikipedia.org/wiki/Guido_van_Rossum) |
 | In 2003, what German Linux company was acquired by Novell for $210M US? | SUSE | [link](https://en.wikipedia.org/wiki/SUSE) |
